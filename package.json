@@ -4,7 +4,8 @@
   "description": "",
   "main": "init.js",
   "dependencies": {
-    "mysql-tools": "^0.1.2"
+    "mysql-tools": "^0.1.2",
+    "node-schedule": "^1.2.1"
   },
   "devDependencies": {},
   "scripts": {
