@@ -1,0 +1,28 @@
+{
+  "name": "node-mysql-backup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "init.js",
+  "dependencies": {
+    "mysql-tools": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bachtiaryayan/node-mysql-backup.git"
+  },
+  "keywords": [
+    "node",
+    "mysql",
+    "backup"
+  ],
+  "author": "yayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bachtiaryayan/node-mysql-backup/issues"
+  },
+  "homepage": "https://github.com/bachtiaryayan/node-mysql-backup#readme"
+}
