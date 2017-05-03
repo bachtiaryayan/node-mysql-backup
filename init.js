@@ -1,5 +1,4 @@
 'use strict'
-const mysqlDump = require('mysqldump');
 const MysqlTools = require('mysql-tools');
 
 const tool = new MysqlTools();
